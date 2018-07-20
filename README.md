@@ -1,6 +1,4 @@
-# liferay-theme
-
-## Developing a Liferay Theme in Liferay 6.2
+# Developing a Liferay Theme in Liferay 6.2
 
 ## References Links
 
